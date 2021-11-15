@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "434053634871",
+    "project_id": "medicos-online-b1811",
+    "storage_bucket": "medicos-online-b1811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434053634871:android:e4c3216e18c445877358b2",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434053634871-56b83e0s256rh73dtg5u10ptp24fhdup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJC9VO3NqE4c_i4GRUKaDmxBvbYrPzVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434053634871-56b83e0s256rh73dtg5u10ptp24fhdup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434053634871:android:aa64fe8ae1b397077358b2",
+        "android_client_info": {
+          "package_name": "com.example.medicosonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434053634871-56b83e0s256rh73dtg5u10ptp24fhdup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJC9VO3NqE4c_i4GRUKaDmxBvbYrPzVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434053634871-56b83e0s256rh73dtg5u10ptp24fhdup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434053634871:android:74e9075bc69a72a07358b2",
+        "android_client_info": {
+          "package_name": "com.example.medicosservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434053634871-56b83e0s256rh73dtg5u10ptp24fhdup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJC9VO3NqE4c_i4GRUKaDmxBvbYrPzVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434053634871-56b83e0s256rh73dtg5u10ptp24fhdup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
